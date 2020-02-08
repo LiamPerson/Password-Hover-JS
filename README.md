@@ -3,10 +3,10 @@
 
 <a href="https://github.com/YeloPartyHat/Password-Hover-JS/edit/master/passwordHover.js" download>Password Hover.js </a><- Right click <strong>"Save link as..."</strong>
 
-Not Hovering:
+<p>Not Hovering:</p>
 <img src="https://raw.githubusercontent.com/YeloPartyHat/Password-Hover-JS/master/exampleImages/notHovering.PNG" alt="Password input field">
 
-Hovering:
+<p>Hovering:</p>
 <img src="https://raw.githubusercontent.com/YeloPartyHat/Password-Hover-JS/master/exampleImages/hovering.PNG" alt="Hovering on password input field">
 
 Just add the class ```showPasswordOnHover``` to your password inputs to add functionality. Load in after jQuery.

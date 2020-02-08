@@ -15,3 +15,9 @@ Load in example:
 
 Example use:
 ```<input type="password" class="showPasswordOnHover">```
+
+
+<hr>
+
+You can un-comment the marked section in the code if you're using Font-Awesome 4 to use that icon.
+Also if you want to change the icon just change the ```const VISION_ICON```though you will also need to change the ``top: 25.5%;right: 15px;`` values to get the icon to sit right.

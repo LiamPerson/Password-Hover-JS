@@ -1,7 +1,7 @@
 # Password Hover JS
  Allow users to see their typed password on hovering a button in the input box. For web.
 
-<a href="https://github.com/YeloPartyHat/Password-Hover-JS/edit/master/passwordHover.js" download>Password Hover.js </a><- Right click "Save link as..."
+<a href="https://github.com/YeloPartyHat/Password-Hover-JS/edit/master/passwordHover.js" download>Password Hover.js </a><- Right click <strong>"Save link as..."</strong>
 
 Just add the class ```showPasswordOnHover``` to your password inputs to add functionality. Load in after jQuery.
 
